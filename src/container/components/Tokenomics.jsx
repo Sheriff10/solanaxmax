@@ -2,7 +2,7 @@ import React from "react";
 import { FaSquare } from "react-icons/fa";
 
 export default function Tokenomics() {
-   const dum = [1, 2, 4];
+   const dum = ["Digital Marketing", "Content Marketing", "Social Media", "Email Marketing"];
    return (
       <div className="tk my-32 px-4">
          <div className="container  text-white">
@@ -21,7 +21,7 @@ export default function Tokenomics() {
                   <ul>
                      {dum.map((i, index) => (
                         <li className="flex gap-3 items-center justify-center text-lg" key={index}>
-                           <FaSquare /> <span>Digital Marketing</span>
+                           <FaSquare /> <span>{i}</span>
                         </li>
                      ))}
                   </ul>
