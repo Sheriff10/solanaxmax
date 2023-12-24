@@ -20,15 +20,14 @@ export default function About() {
                   </span>
                   <div className="text-wrap leading-9 text-lg mt-3 text-neutral-400">
                      <span>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Hic quod nihil ipsa dolor odio quas, ipsum
-                        exercitationem unde nulla magni modi. Alias, officia.
-                        Voluptas veritatis pariatur officiis quos cum nesciunt.{" "}
-                        <br /> <br /> Lorem ipsum dolor sit amet consectetur
-                        adipisicing elit. Inventore soluta maiores aut ipsa
-                        commodi. Aspernatur inventore commodi laboriosam
-                        adipisci debitis cupiditate sed, nemo dolorem vel
-                        veritatis officiis, sequi asperiores esse?
+                        Welcome to Solana Xmas, where joy, laughter, and
+                        blockchain creativity collide! 🎅🚀 Dive into the
+                        festive spirit as we merge the magic of the holiday
+                        season with the innovation of Solana. <br /> <br /> Our
+                        meme project is here to spread smiles and bring a touch
+                        of humor to the blockchain world. Join us in the
+                        celebration of Solana Xmas - the most wonderful time of
+                        the year, now with a crypto twist! 🌟🎄
                      </span>
                   </div>
                </div>
@@ -43,10 +42,12 @@ export default function About() {
                   </span>
                   <div className="text-wrap leading-9 text-lg mt-3 text-neutral-400">
                      <span>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Hic quod nihil ipsa dolor odio quas, ipsum
-                        exercitationem unde nulla magni modi. Alias, officia.
-                        Voluptas veritatis pariatur officiis quos cum nesciunt.{" "}
+                        Cheers to the Solana Xmas community! Your laughter,
+                        creativity, and blockchain spirit have made this project
+                        truly special. As we wrap up, let's carry the joy
+                        forward. Here's to more memes, more fun, and more
+                        unforgettable moments ahead. Happy holidays, Solana Xmas
+                        crew! 🌟🚀🎄
                         <br />
                      </span>
                   </div>
