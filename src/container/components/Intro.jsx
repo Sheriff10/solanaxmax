@@ -10,19 +10,19 @@ export default function Intro() {
                      <div className="text-wrap leading-10">
                         <span className="text-7xl font-bold text-white">SOLANA XMAS</span>{" "}
                         <br />
-                        <span className="text-2xl font-bold">
-                           HE DIED FOR YOUR $SOL; CELEBRRATE XMAS
+                        <span className="text-2xl font-bold text-white">
+                           HE DIED FOR YOUR $SOL <br /> CELEBRRATE XMAS
                         </span>
                      </div>
-                     <div className="btn-wrap flex gap-3 text-center">
+                     <div className="btn-wrap flex gap-3 text-center font-bold">
                         <a
-                           href="#"
-                           className="p-1 rounded-3xl py-3 col bg-pri-light"
+                           href="https://birdeye.so/token/4rQMDp8HnVrCu6tJVsvWPFDK6zFeK4WbNfo4nAU9GzHt?chain=solana"
+                           className="p-1 rounded-3xl py-3 col bg-pri-light" target={"_blank"}
                         >
                            BUY
                         </a>
                         <a
-                           href="#"
+                           href="https://dexscreener.com/solana/GGZwdESREwx5Vex5rLy4DncZPYBYZN8GBzDCBvNAJaGu"
                            className="p-1 rounded-3xl py-3 col  bg-pri-light"
                         >
                            CHART
