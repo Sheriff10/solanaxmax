@@ -2,7 +2,7 @@ import React from "react";
 
 export default function About() {
    return (
-      <div className="container py-32">
+      <div className="container py-32 text-vq">
          <div className="row items-center">
             <div className="col-lg-6">
                <div className="img-wrap">
@@ -40,7 +40,7 @@ export default function About() {
                   <span className="text-3xl font-extrabold text-pri-light uppercase">
                      Solana Xmas - $XMAX{" "}
                   </span>
-                  <div className="text-wrap leading-9 text-lg mt-3 text-neutral-400">
+                  <div className="text-wrap leading-9 text-lg mt-3 text-neutral-400 text-vq">
                      <span>
                         Cheers to the Solana Xmas community! Your laughter,
                         creativity, and blockchain spirit have made this project

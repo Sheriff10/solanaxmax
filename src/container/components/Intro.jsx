@@ -8,13 +8,13 @@ export default function Intro() {
                <div className="row items-center justify-center min-h-screen">
                   <div className="col-lg-6">
                      <div className="text-wrap leading-10">
-                        <span className="text-7xl font-bold text-white">SOLANA XMAS</span>{" "}
+                        <span className="text-7xl font-bold text-white text-vq">SOLANA XMAS</span>{" "}
                         <br />
-                        <span className="text-2xl font-bold text-white">
-                           HE DIED FOR YOUR $SOL <br /> CELEBRRATE XMAS
+                        <span className="text-2xl font-bold text-pri-light text-frt">
+                           HE DIED FOR YOUR $SOL CELEBRRATE XMAS
                         </span>
                      </div>
-                     <div className="btn-wrap flex gap-3 text-center font-bold">
+                     <div className="btn-wrap flex gap-3 text-center font-bold mt-10">
                         <a
                            href="https://birdeye.so/token/4rQMDp8HnVrCu6tJVsvWPFDK6zFeK4WbNfo4nAU9GzHt?chain=solana"
                            className="p-1 rounded-3xl py-3 col bg-pri-light" target={"_blank"}

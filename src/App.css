@@ -1,3 +1,22 @@
+@font-face {
+   font-family: "frt";
+   src: url("/public/font/frt.TTF") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "vq";
+   src: url("/public/font/vq.otf") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
+.text-vq {
+   font-family: "vq";
+}
+.text-frt {
+   font-family: "frt";
+}
+
 .tk .row {
    background: linear-gradient(-45deg, #150e2f, #7824f6);
 }
@@ -9,17 +28,17 @@
    background: linear-gradient(to bottom, transparent 70%, #120a31);
 }
 body {
-    background: #120a31;
+   background: #120a31;
 }
 .mb-header li {
-    background-color: #7824f6;
-    color: #000;
- }
+   background-color: #7824f6;
+   color: #000;
+}
 
- .slide {
-    transform: translateX(-120vw);
-    transition: all 0.5s ease;
- }
- .trans {
-    transition: all 0.5s ease;
- }
+.slide {
+   transform: translateX(-120vw);
+   transition: all 0.5s ease;
+}
+.trans {
+   transition: all 0.5s ease;
+}

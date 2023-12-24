@@ -10,7 +10,7 @@ import Tokenomics from './components/Tokenomics'
 
 export default function Home() {
   return (
-    <div>
+    <div className='text-vq'>
  {/* <div className="logo-con flex justify-between py-3 bg-black px-4 sticky-top lg:">
             <div className="img-wrap">
                <img src="/logo.png" alt="NFTng" className="w-[50px]" />
