@@ -15,8 +15,8 @@ export default function Socials() {
    const sArr = [
       sFunc(<FaTelegram />, "Telegram", "https://t.me/+dCH1RXyBm-BkZWQ0"),
       sFunc(<FaTwitter />, "Twitter", "https://x.com/solanaxmas_"),
-      sFunc(<FaDiscord />, "Discord", "twitter.com/defitigertoken"),
-      sFunc(<FaEnvelope />, "Email", "contact@defitigertoken.com"),
+      sFunc(<FaDiscord />, "Discord", ""),
+      sFunc(<FaEnvelope />, "Email", ""),
    ];
    return (
       <div className="socials text-white" id="socials">
