@@ -1,0 +1,25 @@
+.tk .row {
+   background: linear-gradient(-45deg, #150e2f, #7824f6);
+}
+.intro {
+   background: url("/public/asset/intro.jpeg") no-repeat;
+   background-size: cover;
+}
+.intro .bg-grad {
+   background: linear-gradient(to bottom, transparent 70%, #120a31);
+}
+body {
+    background: #120a31;
+}
+.mb-header li {
+    background-color: #7824f6;
+    color: #000;
+ }
+
+ .slide {
+    transform: translateX(-120vw);
+    transition: all 0.5s ease;
+ }
+ .trans {
+    transition: all 0.5s ease;
+ }
